@@ -1,2 +1,3 @@
 def hello():
-	return "Olá, eu sou o membro2" #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+	#escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
+	return "Olá, eu sou o Lucas Tinoco, tenho 21 anos de idade e curto muito esportes - principalmente futebol e basquete. Meu primeiro contato com programação foi no curso Técnico em Eletrônica, onde aprendi lógica de programação e os fundamentos de C. A partir desse conhecimento, comecei a estudar sobre desenvolvimento Web e hoje trabalho com Front-end JavaScript em uma empresa aqui de Floripa. Nessa disciplina pretendo aprender bastante sobre os conceitos de Orientação a Objetos, praticar bastante e interagir com a galera. Estou bem empolgado!" 
